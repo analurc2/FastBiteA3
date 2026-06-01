@@ -28,9 +28,9 @@ public class FastBite {
         Thread.sleep(2000);
 
         System.out.println(Cores.CYAN +
-                "\n FASTBITE");
+                "\nFASTBITE");
         System.out.println(Cores.CYAN + "Seu delivery rápido e inteligente." + Cores.RESET);
-        System.out.println(Cores.CYAN + " PRIMEIRO PEDIDO COM 60% DE DESCONTO!" + Cores.RESET);
+        System.out.println(Cores.CYAN + "PRIMEIRO PEDIDO COM 60% DE DESCONTO!" + Cores.RESET);
 
         Thread.sleep(1500);
 
