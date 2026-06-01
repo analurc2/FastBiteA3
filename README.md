@@ -1,9 +1,5 @@
 # FastBiteA3
 FastBite é um sistema de fast-food desenvolvido para o projeto A3 da máteria de Algoritmos e Programação, com foco na gestão de pedidos, clientes e produtos. A aplicação busca otimizar o atendimento e organizar o fluxo de vendas, proporcionando uma experiência prática e eficiente tanto para os usuários quanto para os administradores do sistema.
-# 🍔 FastBite
-
-Este repositório contém o desenvolvimento do projeto **FastBite**, elaborado como parte da Avaliação A3 da disciplina de Programação. O objetivo é aplicar os conceitos de **Programação Orientada a Objetos (POO)**, **Conventional Commits** e **gerenciamento de dados em memória** em um sistema de delivery via terminal.
-
 
 ## 🛠️ Ferramentas
 
