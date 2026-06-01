@@ -44,7 +44,7 @@ FastBite/
 |---|---|
 | Ana Luiza Rodrigues Carvalho | 82619364 |
 | Pedro Henrique Lazarine de Freitas | 826196840 |
-| Gabriela da Silva Nóbrega | 826175342 |
+| Gabriel da Silva Nóbrega | 826175342 |
 | Vinicius Marcantonio Vieira | 826129742 |
 | Gabriel Ferreira da Silva Lima | 826199697 |
 
