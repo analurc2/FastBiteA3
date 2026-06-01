@@ -1,17 +1,24 @@
 # FastBiteA3
 FastBite é um sistema de fast-food desenvolvido para o projeto A3 da máteria de Algoritmos e Programação, com foco na gestão de pedidos, clientes e produtos. A aplicação busca otimizar o atendimento e organizar o fluxo de vendas, proporcionando uma experiência prática e eficiente tanto para os usuários quanto para os administradores do sistema.
-🛠️ Ferramentas
-Linguagem
+# 🍔 FastBite
 
-Java
-
-Ferramentas de desenvolvimento
-
-Git & GitHub
-VSCode
+Este repositório contém o desenvolvimento do projeto **FastBite**, elaborado como parte da Avaliação A3 da disciplina de Programação. O objetivo é aplicar os conceitos de **Programação Orientada a Objetos (POO)**, **Conventional Commits** e **gerenciamento de dados em memória** em um sistema de delivery via terminal.
 
 
-📁 Estrutura do Projeto
+## 🛠️ Ferramentas
+
+**Linguagem**
+- Java
+
+**Ferramentas de desenvolvimento**
+- Git & GitHub
+- VSCode
+
+---
+
+## 📁 Estrutura do Projeto
+
+```
 FastBite/
 ├── A_MenuInicial/
 │   ├── FastBite.java       # Ponto de entrada e menu inicial
@@ -31,6 +38,16 @@ FastBite/
     ├── CardapioPizza.java
     ├── CardapioAcai.java
     └── CardapioDogao.java
+```
 
-👥 Integrantes
-NomeRAAna Luiza Rodrigues Carvalho82619364Pedro Henrique Lazarine de Freitas826196840Gabriela da Silva Nóbrega826175342Vinicius Marcantonio Vieira826129742Gabriel Ferreira da Silva Lima826199697
+---
+
+## 👥 Integrantes
+
+| Nome | RA |
+|---|---|
+| Ana Luiza Rodrigues Carvalho | 82619364 |
+| Pedro Henrique Lazarine de Freitas | 826196840 |
+| Gabriela da Silva Nóbrega | 826175342 |
+| Vinicius Marcantonio Vieira | 826129742 |
+| Gabriel Ferreira da Silva Lima | 826199697 |
