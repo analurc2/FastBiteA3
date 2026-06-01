@@ -47,3 +47,10 @@ FastBite/
 | Gabriela da Silva Nóbrega | 826175342 |
 | Vinicius Marcantonio Vieira | 826129742 |
 | Gabriel Ferreira da Silva Lima | 826199697 |
+
+
+## 🎓 Informações Acadêmicas
+
+**Disciplina:** Algoritmos e Programação  
+**Instituição:** Universidade São Judas Tadeu  
+**Professora:** Andréia Máchion
